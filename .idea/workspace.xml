@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9de5f72-0a57-4eb6-b632-7d70acf6c126" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/recursive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mergeSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/mergeSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../recursive/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../recursive/main.py" afterDir="false" />
